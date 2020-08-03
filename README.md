@@ -1,3 +1,10 @@
-Hi This is a starting repo for project experimentations and exploration of python libraries, ML modeling, etc.
+## Repository for Pet Projects
 
-Basic repo for now, will populate with more details in near-term.
+---
+
+Welcome! This is my repository for pet data science projects. Through these projects, I hope to discover and share new insights, while deepening my understanding in data science.
+
+[Pandas profiling & Sweetviz and Variance Inflation Factor]: https://github.com/AngShengJun/petProj/tree/master/eda_viz
+
+
+
